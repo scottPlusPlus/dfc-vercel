@@ -1,0 +1,187 @@
+[
+    {
+      "id": "clxzxcgli000qshfsnb7m929d",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Housing",
+      "articles": [
+        "https://www.sfgate.com/news/article/some-cities-facing-homelessness-crisis-applaud-19546198.php"
+      ],
+      "parents": [
+        "Judicial System"
+      ]
+    },
+    {
+      "id": "clxzxchmz000rshfs130n9zya",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Transportation",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxcjjo000sshfsd3yironh",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Healthcare",
+      "articles": [
+        "https://www.sfgate.com/bayarea/article/uc-campus-rejected-downtown-san-francisco-19529137.php"
+      ],
+      "parents": []
+    },
+    {
+      "id": "clxzxcksx000tshfst5rszbau",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Crime and Public Safety",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxcm6p000ushfssoxd8j7i",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Environment",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxcnf2000vshfs6ys7s3ob",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Jobs",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxcokv000wshfs9djjpz6s",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Cost of Living",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxcryq000xshfsft7mgs24",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Downtown Revitalization",
+      "articles": [
+        "https://www.sfgate.com/bayarea/article/uc-campus-rejected-downtown-san-francisco-19529137.php"
+      ],
+      "parents": [
+        "Urban Development",
+        "Economic Planning"
+      ]
+    },
+    {
+      "id": "clxzxcxjt000yshfsk0qxs603",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Urban Development",
+      "articles": [
+        "https://www.sfgate.com/bayarea/article/uc-campus-rejected-downtown-san-francisco-19529137.php"
+      ],
+      "parents": []
+    },
+    {
+      "id": "clxzxcyvt0010shfs5nbamp1i",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Economic Planning",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxd0l00013shfs77469tck",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "University of California Funding",
+      "articles": [
+        "https://www.sfgate.com/bayarea/article/uc-campus-rejected-downtown-san-francisco-19529137.php"
+      ],
+      "parents": [
+        "Education Policy",
+        "State Finance"
+      ]
+    },
+    {
+      "id": "clxzxd67k0014shfshtlhqgmw",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Education Policy",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxd78i0016shfsxygs1bd5",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "State Finance",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxdehk001cshfs5zhar5g8",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Office Vacancy Rates",
+      "articles": [
+        "https://www.sfgate.com/bayarea/article/uc-campus-rejected-downtown-san-francisco-19529137.php"
+      ],
+      "parents": [
+        "Economic Planning",
+        "Commercial Real Estate Market"
+      ]
+    },
+    {
+      "id": "clxzxdlme001eshfsjc0999t7",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Commercial Real Estate Market",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxg5mh001lshfsr9d31c9c",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Judicial System",
+      "articles": [],
+      "parents": []
+    },
+    {
+      "id": "clxzxi8f7001yshfs3l3h0wo3",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Enforcement Actions on Homeless Encampments",
+      "articles": [
+        "https://www.sfgate.com/news/article/some-cities-facing-homelessness-crisis-applaud-19546198.php"
+      ],
+      "parents": [
+        "Housing",
+        "Urban Development"
+      ]
+    },
+    {
+      "id": "clxzxilro0022shfscnbwf59x",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Homelessness Crisis in Cities",
+      "articles": [
+        "https://www.sfgate.com/news/article/some-cities-facing-homelessness-crisis-applaud-19546198.php"
+      ],
+      "parents": [
+        "Urban Development",
+        "Social Welfare Policy"
+      ]
+    },
+    {
+      "id": "clxzxiv1u0024shfs1bn3dk2k",
+      "domain": "sf++",
+      "entityType": "Topic",
+      "name": "Social Welfare Policy",
+      "articles": [],
+      "parents": []
+    }
+  ]

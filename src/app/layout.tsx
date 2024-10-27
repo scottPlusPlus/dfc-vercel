@@ -5,21 +5,21 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "<💚/>",
-  description: "we've got work to do",
+  title: "devs for charity",
+  description: "write code; help people;",
   openGraph: {
     images: [
       {
-        url: "https://sfplusplus.vercel.app/img/og_img.png",
+        url: "https://devsforcharity.com/devs_for_charity_ogimg.jpg",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "<💚/>",
-    description: "we've got work to do",
+    title: "devs for charity",
+    description: "write code; help people;",
     creator: "@ScottPlusPlus",
-    images: "https://sfplusplus.vercel.app/img/og_img.png",
+    images: "https://devsforcharity.com/devs_for_charity_ogimg.jpg",
   },
 };
 

@@ -7,9 +7,10 @@ export default function MainContent() {
                 <div className="py-12 space-y-2">
                     <p>this is very wip.  follow progress below</p>
                     <p>or get involved with these champs:</p>
+                    <p>-- <a href="https://novaukraine.org/"><u>nova ukraine</u></a></p>
+                    <p>-- <a href="https://meaningfulcode.org/"><u>meaningful code</u></a></p>
                     <p>-- <a href="https://www.starvoting.org/"><u>star voting</u></a></p>
                     <p>-- <a href="https://www.empower-kit.com/"><u>empower-kit</u></a></p>
-                    <p>-- <a href="https://novaukraine.org/"><u>nova ukraine</u></a></p>
                 </div>
             </div>
             <div className="w-full text-left">
